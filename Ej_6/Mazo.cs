@@ -36,7 +36,7 @@ namespace Gonza
                 cartas[azar] = temp;
             }
             cartaActual = 0;
-
+        }
         public Carta robarCarta()
         {
             if (cartaActual < 40)
